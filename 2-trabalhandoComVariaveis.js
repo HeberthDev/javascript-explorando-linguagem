@@ -4,4 +4,6 @@ console.log("Trabalhando com variáveis");
 
 const idade = 29;
 const nome = "Heberth";
-let ano = 2024;
+
+//não fazer
+//mes = "Janeiro";
